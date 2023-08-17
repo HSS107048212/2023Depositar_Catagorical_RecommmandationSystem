@@ -1,0 +1,2 @@
+# 2023Depositar_Catagorical_RecommmandationSystem
+以「類別資料」視角，運用Wikidata關鍵字的Property實現餘弦相似度推薦Depositar資料集
